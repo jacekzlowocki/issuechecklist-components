@@ -1,0 +1,21 @@
+{
+  "name": "issuechecklist-components",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "Jacek Złowocki",
+  "engines": {
+    "node": ">=10.20"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash.filter": "^4.6.0",
+    "lodash.isempty": "^4.4.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
